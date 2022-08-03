@@ -1,12 +1,12 @@
-## Hi there 👋
+# Phoenix [![Go Reference](https://pkg.go.dev/badge/github.com/marius004/phoenix.svg)](https://pkg.go.dev/github.com/marius004/phoenix) 
 
-<!--
+Phoenix is a work in progress platform for learning data structures and algoritms.
 
-**Here are some ideas to get you started:**
+## Description
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Being a platform for solving algorithms and data structures problems, Phoenix features 
+a complex code execution environment that allows users to run their source code against 
+custom made tests. After each execution, the user receives a score from 0 to 100 based 
+on the correctitude and runtime performance of the submission. 
+
+[![Phoenix](https://img.youtube.com/vi/WIkBiAFdZAc/maxresdefault.jpg)](https://www.youtube.com/watch?v=WIkBiAFdZAc)
